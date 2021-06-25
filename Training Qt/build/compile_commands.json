@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/massmax/Bureau/Cours/Learning/Training Qt/build",
+  "command": "/usr/bin/g++-9  -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I\"/home/massmax/Bureau/Cours/Learning/Training Qt/build/main_autogen/include\" -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/eigen3 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCharts  -g   -fPIC -std=gnu++11 -o CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.o -c \"/home/massmax/Bureau/Cours/Learning/Training Qt/build/main_autogen/mocs_compilation.cpp\"",
+  "file": "/home/massmax/Bureau/Cours/Learning/Training Qt/build/main_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/massmax/Bureau/Cours/Learning/Training Qt/build",
+  "command": "/usr/bin/g++-9  -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I\"/home/massmax/Bureau/Cours/Learning/Training Qt/build/main_autogen/include\" -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/eigen3 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCharts  -g   -fPIC -std=gnu++11 -o CMakeFiles/main.dir/main.cpp.o -c \"/home/massmax/Bureau/Cours/Learning/Training Qt/main.cpp\"",
+  "file": "/home/massmax/Bureau/Cours/Learning/Training Qt/main.cpp"
+},
+{
+  "directory": "/home/massmax/Bureau/Cours/Learning/Training Qt/build",
+  "command": "/usr/bin/g++-9  -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I\"/home/massmax/Bureau/Cours/Learning/Training Qt/build/main_autogen/include\" -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/eigen3 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCharts  -g   -fPIC -std=gnu++11 -o CMakeFiles/main.dir/MainWindow.cpp.o -c \"/home/massmax/Bureau/Cours/Learning/Training Qt/MainWindow.cpp\"",
+  "file": "/home/massmax/Bureau/Cours/Learning/Training Qt/MainWindow.cpp"
+},
+{
+  "directory": "/home/massmax/Bureau/Cours/Learning/Training Qt/build",
+  "command": "/usr/bin/g++-9  -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I\"/home/massmax/Bureau/Cours/Learning/Training Qt/build/main_autogen/include\" -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/eigen3 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCharts  -g   -fPIC -std=gnu++11 -o CMakeFiles/main.dir/gestionnaireMemoire.cpp.o -c \"/home/massmax/Bureau/Cours/Learning/Training Qt/gestionnaireMemoire.cpp\"",
+  "file": "/home/massmax/Bureau/Cours/Learning/Training Qt/gestionnaireMemoire.cpp"
+},
+{
+  "directory": "/home/massmax/Bureau/Cours/Learning/Training Qt/build",
+  "command": "/usr/bin/g++-9  -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I\"/home/massmax/Bureau/Cours/Learning/Training Qt/build/main_autogen/include\" -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/eigen3 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCharts  -g   -fPIC -std=gnu++11 -o CMakeFiles/main.dir/couche.cpp.o -c \"/home/massmax/Bureau/Cours/Learning/Training Qt/couche.cpp\"",
+  "file": "/home/massmax/Bureau/Cours/Learning/Training Qt/couche.cpp"
+},
+{
+  "directory": "/home/massmax/Bureau/Cours/Learning/Training Qt/build",
+  "command": "/usr/bin/g++-9  -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I\"/home/massmax/Bureau/Cours/Learning/Training Qt/build/main_autogen/include\" -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/eigen3 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCharts  -g   -fPIC -std=gnu++11 -o CMakeFiles/main.dir/reseau.cpp.o -c \"/home/massmax/Bureau/Cours/Learning/Training Qt/reseau.cpp\"",
+  "file": "/home/massmax/Bureau/Cours/Learning/Training Qt/reseau.cpp"
+},
+{
+  "directory": "/home/massmax/Bureau/Cours/Learning/Training Qt/build",
+  "command": "/usr/bin/g++-9  -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I\"/home/massmax/Bureau/Cours/Learning/Training Qt/build/main_autogen/include\" -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/eigen3 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCharts  -g   -fPIC -std=gnu++11 -o CMakeFiles/main.dir/ext.cpp.o -c \"/home/massmax/Bureau/Cours/Learning/Training Qt/ext.cpp\"",
+  "file": "/home/massmax/Bureau/Cours/Learning/Training Qt/ext.cpp"
+}
+]

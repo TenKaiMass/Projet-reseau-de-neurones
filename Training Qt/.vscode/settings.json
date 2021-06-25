@@ -1,0 +1,30 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "files.associations": {
+        "QGridLayout": "cpp",
+        "QMainWindow": "cpp",
+        "new": "cpp",
+        "iostream": "cpp",
+        "optional": "cpp",
+        "system_error": "cpp",
+        "fstream": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "thread": "cpp",
+        "qdoublespinbox": "cpp",
+        "qabstractaxis": "cpp",
+        "iomanip": "cpp",
+        "ctime": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp"
+    },
+    "C_Cpp.default.intelliSenseMode": "gcc-x64",
+    "materialTheme.accent": "Acid Lime",
+    "C_Cpp.default.includePath": ["/usr/include/x86_64-linux-gnu/qt5/QtCore",
+        "/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+        "/usr/include/x86_64-linux-gnu/qt5/QtCharts",
+        "/usr/include/x86_64-linux-gnu/qt5/QtGui",
+        "/usr/include/x86_64-linux-gnu/qt5/QtDesigner"
+    ],
+    "C_Cpp.default.browse.path": []
+}

@@ -1,0 +1,6 @@
+/home/massmax/Bureau/Cours/Learning/Training Qt/build/CMakeFiles/edit_cache.dir
+/home/massmax/Bureau/Cours/Learning/Training Qt/build/CMakeFiles/package_source.dir
+/home/massmax/Bureau/Cours/Learning/Training Qt/build/CMakeFiles/rebuild_cache.dir
+/home/massmax/Bureau/Cours/Learning/Training Qt/build/CMakeFiles/package.dir
+/home/massmax/Bureau/Cours/Learning/Training Qt/build/CMakeFiles/main.dir
+/home/massmax/Bureau/Cours/Learning/Training Qt/build/CMakeFiles/main_autogen.dir
